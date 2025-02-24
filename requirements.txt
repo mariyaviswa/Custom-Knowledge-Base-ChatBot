@@ -1,0 +1,10 @@
+streamlit
+python-dotenv
+PyPDF2
+faiss-cpu
+huggingface-hub==0.25.2
+InstructorEmbedding==1.0.0
+sentence-transformers==2.2.2
+langchain-community
+google-generativeai
+langchain-google-genai
