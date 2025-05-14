@@ -119,6 +119,11 @@ pip install -r requirements.txt
 ```bash
 chainlit run langchain_groq_chainlit.py
 ```
+
+## User Interface
+
+<img src="https://github.com/mariyaviswa/Custom-Knowledge-Base-ChatBot/blob/main/User_Interface.png?raw=true" alt="User Interface">
+
 ## Collaborators
 
 Akshay Abhay Kullu – Team Lead
